@@ -9,3 +9,5 @@ D
 tests/artist.test.ts,3/a/3accc081d3e7ae7e92d876626e35e9f225154fcf
 H
 contracts/licensing.clar,4/8/485e681ac1dcfe7f9c9c2270616cc7f37b7d33ba
+K
+contracts/subscription.clar,d/4/d4ba0cf12197fc280e34e87887791981a5ab62d5

@@ -10,8 +10,8 @@ path = 'contracts/artist.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.licensing]
-path = 'contracts/licensing.clar'
+[contracts.subscription]
+path = 'contracts/subscription.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
